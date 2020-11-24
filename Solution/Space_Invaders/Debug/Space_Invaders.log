@@ -1,0 +1,24 @@
+﻿  Alien.cpp
+  AlienRow.cpp
+  Explosion.cpp
+  Gui.cpp
+d:\projects\programming\p2549004 space invaders\p2549004 space invaders\solution\space_invaders\src\gui.cpp(40): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+d:\projects\programming\p2549004 space invaders\p2549004 space invaders\solution\space_invaders\src\main.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\programming\p2549004 space invaders\p2549004 space invaders\solution\space_invaders\src\main.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\programming\p2549004 space invaders\p2549004 space invaders\solution\space_invaders\src\main.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\programming\p2549004 space invaders\p2549004 space invaders\solution\space_invaders\src\main.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\programming\p2549004 space invaders\p2549004 space invaders\solution\space_invaders\src\main.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\programming\p2549004 space invaders\p2549004 space invaders\solution\space_invaders\src\main.cpp(144): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Player.cpp
+  Shield.cpp
+  SoundManager.cpp
+  Textureloader.cpp
+  TitleMenu.cpp
+  Ufo.cpp
+  Generating Code...
+  Space_Invaders.vcxproj -> D:\Projects\PROGRAMMING\P2549004 Space Invaders\P2549004 Space Invaders\Solution\Debug\Space_Invaders.exe
